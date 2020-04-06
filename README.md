@@ -1,2 +1,2 @@
-# TakenMind_Internship_Project-Assignments
+# TakenMind_Internship_Project
 This Repository includes my Internship Project ...
